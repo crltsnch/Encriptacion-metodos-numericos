@@ -1,5 +1,4 @@
 import math
-import menu
 
 class Proceso():
 
@@ -26,7 +25,7 @@ class Proceso():
         if mensaje == '':
             print('Introduce el mensaje a desencriptar:')
             mensaje = input('>> ')
-            
+
         mensaje_desencriptado = ""
         raices = mensaje.split('|')
 
