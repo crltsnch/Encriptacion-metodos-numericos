@@ -10,7 +10,7 @@ Para descargar este código a tu ordenador, pulsa el botón verde llamado `<> Co
 Para que el código se ejecute correctamente, debe ejecutar el código del archivo `run.py`.
 
 ## Archivos
-Todos los archivos están guardados en la carpeta `Criptografía`.
+Todos los archivos están guardados en la carpeta `Criptografia`.
 - `run.py`. En este archivo se encuentra una línea de código que hace que el código se ejecute.
 - `config.py`. Aquí encontramos todas las funciones que modifican la terminal a nuestro gusto (estética).
 - `menu.py`. Este archivo configura el menú que aparece en la terminal.
