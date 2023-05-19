@@ -24,6 +24,13 @@ def main():
             resultado = p.encriptar()
             print('El mensaje encriptado es\n\n', resultado)
 
+            print('\n¿Quieres desencriptar el mensaje que acabas de encriptar? (Y/N)')
+            decision = input('>> ')
+            if decision.upper() == 'Y':
+                helper.limpiar_pantalla()
+                resultado_2 = p.desencriptar(resultado)
+                print('El mensaje desencriptado es\n\n', resultado_2)      
+
         elif opcion == '2':
             resultado = p.desencriptar()    
             print('El mensaje desencriptado es\n\n', resultado)
@@ -35,7 +42,7 @@ def main():
         else:
             print('Opción inválida.')
 
-        print('\n¿Desea seguir ejecutando el código? (Y/N)')
+        print('\n¿Deseas seguir ejecutando el código? (Y/N)')
         decision = input('>> ')
-        if decision == 'N':
+        if decision.upper() == 'N':
             break

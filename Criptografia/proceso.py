@@ -1,4 +1,5 @@
 import math
+import helper
 
 class Proceso():
 
@@ -9,8 +10,8 @@ class Proceso():
         return x - (self.f(x) / (10.5 * x**2 + x * math.exp(x) + x*math.exp(x)))
 
     def encriptar(self):
-        print('Introduce el mensaje a encriptar:')
-        mensaje = input('>> ')
+        print('Introduce el mensaje a desencriptar:')
+        mensaje = input('>> ')  
         mensaje_encriptado = []
         
         for c in mensaje:
@@ -21,9 +22,11 @@ class Proceso():
         
         return '|'.join(mensaje_encriptado)
 
-    def desencriptar(self):
-        print('Introduce el mensaje a desencriptar:')
-        mensaje = input('>> ')
+    def desencriptar(self, mensaje = ''):
+        if mensaje == '':
+            print('Introduce el mensaje a desencriptar:')
+            mensaje = input('>> ')
+    
         mensaje_desencriptado = ""
         raices = mensaje.split('|')
 
