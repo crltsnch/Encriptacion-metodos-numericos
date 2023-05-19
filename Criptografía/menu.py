@@ -1,10 +1,10 @@
 from proceso import Proceso
-import config 
+import helper 
 
 def main():
     while True:
 
-        config.limpiar_pantalla()
+        helper.limpiar_pantalla()
 
         print('---------------------------')
         print('M E N Ú   P R I N C I P A L')
@@ -18,7 +18,7 @@ def main():
         p = Proceso()
 
         opcion = input('>> ')
-        config.limpiar_pantalla()
+        helper.limpiar_pantalla()
 
         if opcion == '1':
             resultado = p.encriptar()
