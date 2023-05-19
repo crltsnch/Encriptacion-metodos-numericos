@@ -30,21 +30,21 @@ En este apartado explicamos cómo funciona el código.
 
 ### Encriptar
 Cuando seleccionamos opción 1, en la terminar aparece el siguiente mensaje
-![Solicita mensaje a encriptar](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/1 - mensaje.png)
+![Solicita mensaje a encriptar](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/1-mensaje.png)
 Introducimos el mensaje y la pantalla se actualiza
-![Mensaje encriptado](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/1 - encriptado.png)
+![Mensaje encriptado](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/1-encriptado.png)
 Nos pide si queremos desencriptar ese mismo mensaje
 - Si respondemos que sí (Y)
-![Mensaje desencriptado](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/1 - desencriptar_Y.png)
+![Mensaje desencriptado](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/1-desencriptar_Y.png)
 - Si respondemos que no (N)
-![Fin parte 1](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/1 - desencriptar_N.png)
+![Fin parte 1](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/1-desencriptar_N.png)
 Finalmente, nos pregunta si queremos volver al menú (Y) o si queremos cerrar el programa (N). 
 
 ### Desencriptar
 Cuando seleccionamos opción 1, en la terminar aparece el siguiente mensaje
-![Solicita mensaje a desencriptar](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/2 - mensaje.png)
+![Solicita mensaje a desencriptar](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/2-mensaje.png)
 Introducimos el mensaje y la pantalla se actualiza
-![Mensaje desencriptado](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/2 - desencriptado.png)
+![Mensaje desencriptado](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/2-desencriptado.png)
 Finalmente, nos pregunta si queremos volver al menú (Y) o si queremos cerrar el programa (N). 
 
 ### Salir
