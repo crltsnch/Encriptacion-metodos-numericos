@@ -25,7 +25,7 @@ El código tiene ciertas limitaciones que nos gustaría que se tuviesen en cuent
 ## Paso a paso
 En este apartado explicamos cómo funciona el código.
 ### Menú
-![Menú del código](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/Imágenes/metodos_paso1.png)
+![Menú del código](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/metodos_paso1.png)
 ### Encriptar
 ### Desencriptar
 ### Salir
