@@ -9,7 +9,7 @@ class Proceso():
         return x - (self.f(x) / (10.5 * x**2 + x * math.exp(x) + x*math.exp(x)))
 
     def encriptar(self):
-        print('Introduce el mensaje a desencriptar:')
+        print('Introduce el mensaje a encriptar:')
         mensaje = input('>> ')  
         mensaje_encriptado = []
         

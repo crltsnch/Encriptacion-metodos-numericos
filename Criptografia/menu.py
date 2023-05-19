@@ -21,8 +21,8 @@ def main():
         helper.limpiar_pantalla()
 
         if opcion == '1':
-            resultado = p.encriptar()
-            print('El mensaje encriptado es\n\n', resultado)
+            resultado = p.encriptar()            
+            print('\nEl mensaje encriptado es\n\n', resultado)
 
             print('\n¿Quieres desencriptar el mensaje que acabas de encriptar? (Y/N)')
             decision = input('>> ')
@@ -33,7 +33,7 @@ def main():
 
         elif opcion == '2':
             resultado = p.desencriptar()    
-            print('El mensaje desencriptado es\n\n', resultado)
+            print('\nEl mensaje desencriptado es\n\n', resultado)
 
         elif opcion == '3':
             print("Saliendo...\n")
