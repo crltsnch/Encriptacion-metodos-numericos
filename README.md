@@ -24,3 +24,7 @@ El código tiene ciertas limitaciones que nos gustaría que se tuviesen en cuent
 
 ## Paso a paso
 En este apartado explicamos cómo funciona el código.
+### Menú
+### Encriptar
+### Desencriptar
+### Salir
