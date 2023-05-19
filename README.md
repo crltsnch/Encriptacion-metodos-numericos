@@ -23,3 +23,4 @@ El código tiene ciertas limitaciones que nos gustaría que se tuviesen en cuent
 - Al introducir el mensaje encriptado en el código, incluir los separadores '|'.
 
 ## Paso a paso
+En este apartado explicamos cómo funciona el código.
