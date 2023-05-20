@@ -51,7 +51,7 @@ Nos pide si queremos desencriptar ese mismo mensaje.
 Finalmente, nos pregunta si queremos volver al menú (Y) o si queremos cerrar el programa (N). 
 
 ### Desencriptar
-Cuando seleccionamos opción 1, en la terminar aparece el siguiente mensaje.
+Cuando seleccionamos opción 2, en la terminar aparece el siguiente mensaje.
 
 ![Solicita mensaje a desencriptar](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/2-mensaje.png)
 
@@ -62,6 +62,6 @@ Introducimos el mensaje y la pantalla se actualiza.
 Finalmente, nos pregunta si queremos volver al menú (Y) o si queremos cerrar el programa (N). 
 
 ### Salir
-El programa se cierra.
+Al seleccionar la tercera opción, el programa se cierra.
 
 ![Saliendo..](https://raw.githubusercontent.com/crltsnch/Encriptacion-metodos-numericos/master/Imágenes/3.png)
