@@ -15,6 +15,7 @@ Todos los archivos están guardados en la carpeta `Criptografia`.
 - `config.py`. Aquí encontramos todas las funciones que modifican la terminal a nuestro gusto (estética).
 - `menu.py`. Este archivo configura el menú que aparece en la terminal.
 - `proceso.py`. Aquí tenemos todo el código que nos permite realizar la codificación y decodificación de mensajes. Definimos la función no lineal, la función de punto fijo de Newton-Raphson, el método iterativo de resolución de ecuaciones no lineales, la encriptación y desencriptación de mensajes.
+
 Por otro lado, la carpeta `Imágenes` contiene todas las fotos que usamos más adelante.
 
 ## Limitaciones
